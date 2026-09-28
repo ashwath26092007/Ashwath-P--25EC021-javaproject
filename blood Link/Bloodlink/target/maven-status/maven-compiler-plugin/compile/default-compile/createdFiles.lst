@@ -1,0 +1,14 @@
+com\bloodlink\repository\DonationRecordRepository.class
+com\bloodlink\config\WebConfig.class
+com\bloodlink\controller\DonationRecordController.class
+com\bloodlink\service\BloodGroupService.class
+com\bloodlink\service\DonationRecordService.class
+com\bloodlink\repository\DonorRepository.class
+com\bloodlink\repository\BloodGroupRepository.class
+com\bloodlink\BloodlinkApplication.class
+com\bloodlink\entity\BloodGroup.class
+com\bloodlink\entity\DonationRecord.class
+com\bloodlink\service\DonorService.class
+com\bloodlink\controller\BloodGroupController.class
+com\bloodlink\controller\DonorController.class
+com\bloodlink\entity\Donor.class
